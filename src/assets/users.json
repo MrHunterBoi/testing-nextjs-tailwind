@@ -1,37 +1,107 @@
 [
   {
     "id": 1,
-    "username": "cpennetta0",
-    "email": "gockland0@yellowpages.com",
-    "createdAt": "2024-07-24"
+    "username": "mgheorghie0",
+    "email": "ccookman0@wordpress.org",
+    "createdAt": "2022-08-02",
+    "avatar": "http://dummyimage.com/256x256.png/5fa2dd/ffffff"
   },
-  { "id": 2, "username": "ebritee1", "email": "dsmallacombe1@ucla.edu", "createdAt": "2021-11-24" },
+  {
+    "id": 2,
+    "username": "samar1",
+    "email": "rconew1@jigsy.com",
+    "createdAt": "2024-06-27",
+    "avatar": "http://dummyimage.com/256x256.png/dddddd/000000"
+  },
   {
     "id": 3,
-    "username": "msprankling2",
-    "email": "hsongist2@mozilla.com",
-    "createdAt": "2021-08-07"
+    "username": "rpettman2",
+    "email": "bcannavan2@intel.com",
+    "createdAt": "2023-10-22",
+    "avatar": null
   },
-  { "id": 4, "username": "mdoerr3", "email": "ahackett3@usda.gov", "createdAt": "2024-01-29" },
-  { "id": 5, "username": "osidle4", "email": "qmannagh4@go.com", "createdAt": "2022-11-07" },
+  {
+    "id": 4,
+    "username": "ccosgrove3",
+    "email": "aline3@slate.com",
+    "createdAt": "2024-07-01",
+    "avatar": "http://dummyimage.com/256x256.png/cc0000/ffffff"
+  },
+  {
+    "id": 5,
+    "username": "calston4",
+    "email": "athorneywork4@cbsnews.com",
+    "createdAt": "2023-03-25",
+    "avatar": "http://dummyimage.com/256x256.png/5fa2dd/ffffff"
+  },
   {
     "id": 6,
-    "username": "shackleton5",
-    "email": "dcambridge5@aboutads.info",
-    "createdAt": "2024-10-22"
+    "username": "eabramcik5",
+    "email": "apennuzzi5@constantcontact.com",
+    "createdAt": "2022-09-08",
+    "avatar": "http://dummyimage.com/256x256.png/cc0000/ffffff"
   },
-  { "id": 7, "username": "mewington6", "email": "gsynnot6@goo.ne.jp", "createdAt": "2024-02-29" },
+  {
+    "id": 7,
+    "username": "sellul6",
+    "email": "tkordas6@cargocollective.com",
+    "createdAt": "2022-10-07",
+    "avatar": "http://dummyimage.com/256x256.png/5fa2dd/ffffff"
+  },
   {
     "id": 8,
-    "username": "mhalfpenny7",
-    "email": "hkaplin7@geocities.com",
-    "createdAt": "2023-04-29"
+    "username": "nblemen7",
+    "email": "abinks7@pen.io",
+    "createdAt": "2021-11-24",
+    "avatar": "http://dummyimage.com/256x256.png/5fa2dd/ffffff"
   },
   {
     "id": 9,
-    "username": "fboutton8",
-    "email": "tpickerell8@smh.com.au",
-    "createdAt": "2023-02-24"
+    "username": "mconley8",
+    "email": "mnuton8@newyorker.com",
+    "createdAt": "2021-04-07",
+    "avatar": "http://dummyimage.com/256x256.png/ff4444/ffffff"
   },
-  { "id": 10, "username": "tebbles9", "email": "tpirnie9@narod.ru", "createdAt": "2022-02-15" }
+  {
+    "id": 10,
+    "username": "kgorrie9",
+    "email": "wnashe9@sakura.ne.jp",
+    "createdAt": "2020-12-30",
+    "avatar": "http://dummyimage.com/256x256.png/ff4444/ffffff"
+  },
+  {
+    "id": 11,
+    "username": "yauberta",
+    "email": "ncollobya@discuz.net",
+    "createdAt": "2021-07-12",
+    "avatar": null
+  },
+  {
+    "id": 12,
+    "username": "cpepperillb",
+    "email": "lrivalandb@constantcontact.com",
+    "createdAt": "2022-10-28",
+    "avatar": "http://dummyimage.com/256x256.png/cc0000/ffffff"
+  },
+  {
+    "id": 13,
+    "username": "lpendergrastc",
+    "email": "tmehewc@google.nl",
+    "createdAt": "2023-11-24",
+    "avatar": "http://dummyimage.com/256x256.png/5fa2dd/ffffff"
+  },
+  {
+    "id": 14,
+    "username": "hperrid",
+    "email": "ayoselevitchd@mashable.com",
+    "createdAt": "2022-11-03",
+    "avatar": "http://dummyimage.com/256x256.png/ff4444/ffffff"
+  },
+  {
+    "id": 15,
+    "username": "dleipelte",
+    "email": "smccaughene@unc.edu",
+    "createdAt": "2024-03-04",
+    "avatar": null
+  }
 ]
