@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "username": "cpennetta0",
+    "email": "gockland0@yellowpages.com",
+    "createdAt": "2024-07-24"
+  },
+  { "id": 2, "username": "ebritee1", "email": "dsmallacombe1@ucla.edu", "createdAt": "2021-11-24" },
+  {
+    "id": 3,
+    "username": "msprankling2",
+    "email": "hsongist2@mozilla.com",
+    "createdAt": "2021-08-07"
+  },
+  { "id": 4, "username": "mdoerr3", "email": "ahackett3@usda.gov", "createdAt": "2024-01-29" },
+  { "id": 5, "username": "osidle4", "email": "qmannagh4@go.com", "createdAt": "2022-11-07" },
+  {
+    "id": 6,
+    "username": "shackleton5",
+    "email": "dcambridge5@aboutads.info",
+    "createdAt": "2024-10-22"
+  },
+  { "id": 7, "username": "mewington6", "email": "gsynnot6@goo.ne.jp", "createdAt": "2024-02-29" },
+  {
+    "id": 8,
+    "username": "mhalfpenny7",
+    "email": "hkaplin7@geocities.com",
+    "createdAt": "2023-04-29"
+  },
+  {
+    "id": 9,
+    "username": "fboutton8",
+    "email": "tpickerell8@smh.com.au",
+    "createdAt": "2023-02-24"
+  },
+  { "id": 10, "username": "tebbles9", "email": "tpirnie9@narod.ru", "createdAt": "2022-02-15" }
+]
